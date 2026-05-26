@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .claude/
 jobs.json
+data/jobs.json
+data/resume_profile.json
+data/match_reports.json
+data/feedback_logs.json
